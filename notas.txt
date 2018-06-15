@@ -1,0 +1,5 @@
+[] - fazer o donwloads dos pacotes necessários para o paginador;
+
+para o slider  1920 * 500(extenções utilizavél: .jpg, .gif, .png);
+    mobile(600 * 250)
+images de 550

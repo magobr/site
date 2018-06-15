@@ -1,0 +1,28 @@
+.navbar{ 
+    margin: 0 0 10px 0; 
+    border-bottom: solid 1px rgb(216, 216, 216);
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 12pt;
+    color: rgb(0, 0, 0);
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: rgb(87, 87, 87);
+    text-decoration: underline;
+}
+
+.carousel-inner{
+    width: 100%;
+}
+
+.fab{
+    color: rgb(255, 255, 255);
+}
+.bot{
+    background-color: rgb(87, 87, 87);
+}
+    .bot h6{
+        color: #fff;
+    }
