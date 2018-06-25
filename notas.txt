@@ -1,6 +1,9 @@
 [X] - fazer o donwloads dos pacotes necessários para o paginador;
 
 para o slider  1920 * 500(extenções utilizavél: .jpg, .gif, .png)	Darei preferencia á .png;
+imagens para o mostruario será de 200x300
+imagens para o produtos será de 300x400
+
     mobile(600 * 250)
 	
 images de 550
@@ -8,8 +11,9 @@ images de 550
 
 --Possiveis nomes para meu site de vendas de camisetas--
 
-Manual Nerd
+Nerd House
 Life Geek
 Style Geek
 Nerd Server
 id.Geek
+NerdPontoJpg
