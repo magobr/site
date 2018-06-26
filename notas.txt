@@ -4,6 +4,8 @@ para o slider  1920 * 500(extenções utilizavél: .jpg, .gif, .png)	Darei prefe
 imagens para o mostruario será de 200x300
 imagens para o produtos será de 300x400
 
+Ajustar top com o logo da pagina
+
     mobile(600 * 250)
 	
 images de 550
