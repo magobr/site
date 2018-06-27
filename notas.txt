@@ -11,6 +11,9 @@ Ajustar top com o logo da pagina
 images de 550
 
 
+27/06 - Ver utilização do menu comentado no index
+
+
 --Possiveis nomes para meu site de vendas de camisetas--
 
 Nerd House
