@@ -1,13 +1,29 @@
-/* Mobile */
+/* Desktop */
 @media screen and (min-width: 901px){
     .pos-f-t{
         display: none;
     }
 }
 
-/* Desktop */
+/* Mobile */
 @media screen and (max-width: 900px){
     .resp{
         display: none;
+    }
+
+    .logo{
+        font-family: 'Shrikhand', cursive;
+        font-size: 25pt;
+        color: rgb(255, 255, 255);
+    }
+
+    .nav-item .nav-link{
+        font-family: Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: bold;
+        font-size: 18pt;
+        color: rgb(255, 255, 255);
+    }
+    .nav-item .nav-link:hover{
+        text-decoration: underline;
     }
 }
