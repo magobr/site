@@ -1,12 +1,12 @@
 /* Desktop */
-@media screen and (min-width: 901px){
+@media screen and (min-width: 701px){
     .pos-f-t{
         display: none;
     }
 }
 
 /* Mobile */
-@media screen and (max-width: 900px){
+@media screen and (max-width: 700px){
     .resp{
         display: none;
     }
@@ -18,12 +18,15 @@
     }
 
     .nav-item .nav-link{
-        font-family: Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: bold;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: normal;
         font-size: 18pt;
         color: rgb(255, 255, 255);
     }
     .nav-item .nav-link:hover{
         text-decoration: underline;
+    }
+    .nav-color{
+        background-color: rgb(134, 4, 4);
     }
 }
