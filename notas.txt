@@ -1,17 +1,21 @@
 [X] - fazer o donwloads dos pacotes necessários para o paginador;
 
-para o slider  1920 * 500(extenções utilizavél: .jpg, .gif, .png)	Darei preferencia á .png;
-imagens para o mostruario será de 200x300
-imagens para o produtos será de 300x400
-
-Ajustar top com o logo da pagina
-
-    mobile(600 * 250)
-	
-images de 550
+    para o slider  1920 * 500(extenções utilizavél: .jpg, .gif, .png)	Darei preferencia á .png;
+    imagens para o mostruario será de 200x300
+    imagens para o produtos será de 300x400
 
 
-27/06 - Ver utilização do menu comentado no index
+/- Imagens -/
+
+Baixar / Atualizar gimp
+
+[.] - icone de titulo
+    [ ] - com o tamanho de 512 x 512
+
+[.] - Imagens do slider
+    [ ] - definir um padrão para as imagens
+    [ ] - Criar as imagens
+    [ ] - fazer um modelo das imagens para a versão mobile
 
 
 --Possiveis nomes para meu site de vendas de camisetas--
