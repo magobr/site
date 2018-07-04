@@ -9,8 +9,8 @@
 
 Baixar / Atualizar gimp
 
-[.] - icone de titulo
-    [ ] - com o tamanho de 512 x 512
+[X] - icone de titulo
+    [X] - com o tamanho de 512 x 512
 
 [.] - Imagens do slider
     [ ] - definir um padrão para as imagens
