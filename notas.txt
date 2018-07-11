@@ -19,7 +19,7 @@ Baixar / Atualizar gimp
 [.] - Imagens do slider
     [ ] - definir um padrão para as imagens
     [ ] - Criar as imagens
-    [ ] - fazer um modelo das imagens para a versão mobile
+    [X] - fazer um modelo das imagens para a versão mobile
 
 
 --Possiveis nomes para meu site de vendas de camisetas--

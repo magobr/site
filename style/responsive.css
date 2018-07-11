@@ -1,13 +1,16 @@
 /* Desktop */
 @media screen and (min-width: 701px){
-    .pos-f-t{
+
+    .mob{
         display: none;
     }
+
 }
 
 /* Mobile */
 @media screen and (max-width: 700px){
-    .resp{
+    
+    .deskt{
         display: none;
     }
 
