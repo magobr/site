@@ -1,3 +1,1 @@
-# site com a finalidade comercial
-
-# Focado em Vender Camisetas estampadas com o tema 'geek'
+# site com a finalidade comercial focado em Vender Camisetas estampadas com o tema 'geek'
