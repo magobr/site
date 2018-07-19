@@ -32,4 +32,9 @@
     .nav-color{
         background-color: rgb(134, 4, 4);
     }
+
+    section{
+        margin: 0;
+    }
+    
 }

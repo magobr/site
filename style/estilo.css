@@ -56,6 +56,10 @@
 }
 
 /* Section */
+section{
+    margin: 60px 0 0 0;
+}
+
 .carousel-inner{
     width: 100%;
 }
